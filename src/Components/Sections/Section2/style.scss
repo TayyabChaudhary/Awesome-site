@@ -1,0 +1,26 @@
+.background-image1{
+    background-image:linear-gradient(rgb(5, 4, 4),rgba(0,0,0,0.7)), url(../../../assets/images/1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 90vh;
+}
+.content{
+    h2{
+        padding-top: 150px;
+        font-size: 3.9em;
+        color:#fff;
+        letter-spacing: 2.4px;
+        font-weight: 100;
+        border-bottom: 1px solid #fff;
+        width: 500px;
+    }
+    p{
+        color: #fff;
+        border-bottom: 1px solid #fff;
+        width: 500px;
+    }
+    button{
+        width: 150px;
+    }
+}
+// End
